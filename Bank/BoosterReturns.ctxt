@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BoosterReturns
+comment1.params=boosterName
+comment1.target=BoosterReturns(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=nbrOfBoxes
+comment3.target=void\ updateSales(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ boxes()
+numComments=6
