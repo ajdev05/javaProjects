@@ -3,7 +3,7 @@
  *  class SoftDrinkTest 
  *
  * @author (https://github.com/ajdev05)
- * @version ( )
+ * 
  */
 
 import java.util.*;
