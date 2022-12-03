@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class SoftDrinkTest here.
+ *  class SoftDrinkTest 
  *
  * @author (your name)
  * @version (a version number or a date)
