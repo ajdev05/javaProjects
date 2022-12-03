@@ -2,8 +2,8 @@
 /**
  *  class SoftDrinkTest 
  *
- * @author (https://github.com)
- * @version (a version number or a date)
+ * @author (https://github.com/ajdev05)
+ * @version (a version )
  */
 
 import java.util.*;
