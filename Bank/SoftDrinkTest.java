@@ -2,7 +2,7 @@
 /**
  *  class SoftDrinkTest 
  *
- * @author (your name)
+ * @author (https://github.com)
  * @version (a version number or a date)
  */
 
