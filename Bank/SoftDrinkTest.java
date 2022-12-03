@@ -45,7 +45,7 @@ public class SoftDrinkTest
                 System.out.println();
                 System.out.println(drink.orderChange(amount));
                 System.out.println();
-                System.out.println(drink.returnChange());;
+                System.out.println(drink.returnChange());
             }
 
 
